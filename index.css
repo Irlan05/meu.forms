@@ -1,3 +1,7 @@
+*{
+    box-sizing:border-box;
+}    
+
 body{
     background-image: url(https://lcmtreinamento.com.br/wp-content/uploads/2014/10/int-equipe-1024x675.jpg);
     background-size: cover;
